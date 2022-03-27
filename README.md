@@ -2,4 +2,4 @@
 relearning the basics 
 # Title dis hoe 
 ## Subtitle dis hoe 
-### <span style="color:blue">Yo gamma gamma</span>.
+### <span style="color:blue">Yo gamma gamma : ( </span>.
